@@ -10,4 +10,9 @@ Ejercicios en Python sobre listas, tuplas, conjuntos y diccionarios.
 - ![image](https://github.com/user-attachments/assets/7efe4ecb-e6bb-4ea6-9c60-bc2b2f92cee3)
 - resultado
 - ![image](https://github.com/user-attachments/assets/6f8ceb14-2a10-4fb7-bba5-6fdb9d602e6a)
+-
+## Ejemplo de conjuntos set
+- ![image](https://github.com/user-attachments/assets/b8ca8607-6fdc-4146-8fc8-9030f846bfed)
+- resultado
+- ![image](https://github.com/user-attachments/assets/5ef9c7ee-7765-4557-a5f3-f76db343556f)
 
