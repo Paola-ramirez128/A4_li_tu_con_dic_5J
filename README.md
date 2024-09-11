@@ -15,4 +15,10 @@ Ejercicios en Python sobre listas, tuplas, conjuntos y diccionarios.
 - ![image](https://github.com/user-attachments/assets/b8ca8607-6fdc-4146-8fc8-9030f846bfed)
 - resultado
 - ![image](https://github.com/user-attachments/assets/5ef9c7ee-7765-4557-a5f3-f76db343556f)
+## Ejemplo de diccionario
+- codigo
+- ![image](https://github.com/user-attachments/assets/f471a67d-5ef5-4618-8a38-3bb0c484399c)
+- resultado
+- ![image](https://github.com/user-attachments/assets/14bcaadd-6f04-4e26-89a7-5b5cdcdffc4b)
+
 
